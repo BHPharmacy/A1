@@ -1,3 +1,8 @@
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="x-ua-compatibile" content="ie=edge">
+      <title>Pharmacy and Nurse Information Enquiry</title>
    </head>
    <body>
       <!-- Background Picture Setting-->
@@ -12,7 +17,7 @@
       </div>
       <!-- Statment and Contact Number to Provide-->
       <H1 style="text-align: center;color: rgb(46, 27, 65);">Welcome To The Pharmacy and Nurse Drug Information Platform</H1>
-      <hr noshade=""; size="5">
+     
       <p style="size: 1;text-align:center;">Press Your Position for Your Information , Thanks You</p>
       <p style="size: 1;text-align: center;"> Feel Free to Check Pharmacy Stuff As Well</p>
       <br>
