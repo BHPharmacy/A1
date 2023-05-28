@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewpoint" content="width=device-width";initial-scale=1.0>
-      <meta http-equiv="x-ua-compatibile" content="ie=edge">
-      <title>Pharmacy and Nurse Information Enquiry</title>
    </head>
    <body>
       <!-- Background Picture Setting-->
